@@ -49,4 +49,8 @@ Bu projede, sohbet odası planlanmıştır. Kullanıcılar, "Kullanıcı adı" v
 <p align="center">
   <img src="readme_image/room.PNG" alt="Room">
 </p>
+
+<p align="center">
+  <img src="readme_image/room_2.PNG" alt="Room">
+</p>
 <br>
