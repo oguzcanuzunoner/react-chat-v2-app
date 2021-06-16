@@ -33,7 +33,7 @@ Bu projede, sohbet odası planlanmıştır. Kullanıcılar, "Kullanıcı adı" v
 
 ## Proje Nasıl Çalıştırılır
 
-- Projeyi fork'ladıktan ya da indirdikten sonra projenin bulunduğu server ve web klasörlerinde "npm install" komutu ile gerekli paketlerin yüklenmesi gerekiyor.
+- Projeyi fork'ladıktan ya da indirdikten sonra projenin bulunduğu server ve client klasörlerinde "npm install" komutu ile gerekli paketlerin yüklenmesi gerekiyor.
 - Daha sonra server ve client adına her birine özel  "npm start" komutu ile uygulama başlatılabilir.
   
 ## Ekran Görüntüsü
